@@ -7,14 +7,14 @@
 <h1 align="center">Hey there 👋, I'm Aditya Chourasiya</h1>
 
 <p align="center">
-  🧑‍🎓 First-Year Engineering Student • 🔐 Security & MLOps Enthusiast • 💡 Lifelong Learner  
+  🧑‍🎓 First-Year  Student • 🔐 Security & MLOps Enthusiast • 💡 Lifelong Learner  
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hi! I'm **Aditya Chourasiya**, currently diving into the world of **Cybersecurity**, **Cloud Technologies**, and **MLOps**.  
+Hi! I'm **Aditya Chourasiya**, currently diving into the world of **Cybersecurity Engineer**, and **MLOps engineer**.  
 I’m passionate about combining secure infrastructure with intelligent systems — right from development to deployment.
 
 - 🎓 First-year student on a mission to build & secure AI-driven systems
