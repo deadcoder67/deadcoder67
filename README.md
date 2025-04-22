@@ -1,7 +1,7 @@
 ## Hi , I AM ADITYA CHOURASIYA 👋
 <!-- Cool GIF Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm Aditya Chourasiya</h1>
