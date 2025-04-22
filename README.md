@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi , I AM ADITYA CHOURASIYA 👋
 
 <!--
 **deadcoder67/deadcoder67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
